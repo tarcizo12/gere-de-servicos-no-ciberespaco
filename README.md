@@ -18,3 +18,4 @@ Colunas disponíveis no dataset: ['ID', 'MUNICÍPIO', 'PRIMEIRO_NOME']
 1º Executar na raiz do projeto :
     -> py main.py (verificar como o python está na variavel de ambiente)
 
+# gere-de-servicos-no-ciberespaco
